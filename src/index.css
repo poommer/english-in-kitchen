@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import "tailwindcss";
+@theme {
+    --color-primary: #E4B363 ;
+  --color-primary-2: #E0DFD5 ;
+  --color-second: #EF6461 ;
+  --color-second-2: #EC9C9B ;
+  --color-black-2: #313638 ;
+  } 
+
+
+
+* {
+    font-family: "Itim", sans-serif;
+}
+
+.head-font{
+     font-family: "Titan One";
+}
+
+.text-stroke {
+    font-family: "Titan One";
+    -webkit-text-stroke: 4.5px #EF6461;
+}
+
+.text-stroke-black {
+    font-family: "Titan One";
+    -webkit-text-stroke: 4.5px black;
+}

@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { Tab } from "../../components/Tap";
-import { Multiple_choice, Unscramble } from "../../components/multiple_choice";
+import { Multiple_choice, Unscramble } from "../../components/Multiple_choice";
 import { Button } from "../../components/Button";
 import { ProgressTab } from "../../components/Progress";
 import { Matching } from "../../components/Matching";

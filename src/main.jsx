@@ -8,7 +8,7 @@ import {
   Link,
   createRoutesFromElements,
 } from "react-router-dom";
-import { Layout } from "./layout/layout";
+import { Layout } from "./layout/Layout";
 import { Homepage } from './routes/homepage/Homepage';
 import { Detail, Lesson } from "./routes/lesson/Lesson";
 import { WordSearchPage } from "./routes/lesson/word-search";

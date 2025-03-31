@@ -1,0 +1,176 @@
+[
+    {
+        "quiz": "cooking verb #1",
+        "score": "15/15",
+        "total_questions": 15,
+        "words": [
+            {
+                "en": "peel",
+                "th": "ปอก",
+                "image_url": "https://img.freepik.com/free-photo/people-cooking-fresh-potato-preparing-food-kitchen_1150-14563.jpg"
+            },
+            {
+                "en": "break",
+                "th": "ตอก",
+                "image_url": "https://img.freepik.com/free-photo/man-hands-breaking-eggs-bowl-grey-table_114579-85234.jpg"
+            },
+            {
+                "en": "pour",
+                "th": "เท",
+                "image_url": "https://img.freepik.com/free-photo/man-hand-pouring-orange-juice-into-glass-marble-table_114579-88190.jpg?uid=R73370840&ga=GA1.1.1950856183.1742157722&semt=ais_hybrid"
+            },
+            {
+                "en": "stir",
+                "th": "คน",
+                "image_url": "https://img.freepik.com/premium-photo/couple-cooking-together-kitchen-home_358354-7235.jpg?uid=R73370840&ga=GA1.1.1950856183.1742157722"
+            },
+            {
+                "en": "chop",
+                "th": "สับ",
+                "image_url": "https://img.freepik.com/free-photo/women-hand-chop-parsley-wooden-board-old-blue-table-close-up_346278-1500.jpg?uid=R73370840&ga=GA1.1.1950856183.1742157722"
+            },
+            {
+                "en": "slice",
+                "th": "หั่น",
+                "image_url": "https://img.freepik.com/premium-photo/hand-use-knife-slice-meat-chop-it_820340-34220.jpg?uid=R73370840&ga=GA1.1.1950856183.1742157722"
+            },
+            {
+                "en": "grate",
+                "th": "ขูด",
+                "image_url": "https://img.freepik.com/premium-photo/midsection-senior-man-preparing-food-kitchen_1048944-11643543.jpg?uid=R73370840&ga=GA1.1.1950856183.1742157722&semt=ais_hybrid"
+            },
+            {
+                "en": "drain",
+                "th": "ถ่าย",
+                "image_url": "https://image.shutterstock.com/image-photo/woman-draining-pasta-into-colander-260nw-2430147993.jpg"
+            },
+            {
+                "en": "mix",
+                "th": "ผสม",
+                "image_url": ""
+            },
+            {
+                "en": "mash",
+                "th": "บด",
+                "image_url": ""
+            },
+            {
+                "en": "whisk",
+                "th": "ปัด",
+                "image_url": ""
+            },
+            {
+                "en": "knead",
+                "th": "นวด",
+                "image_url": ""
+            },
+            {
+                "en": "flatten",
+                "th": "เรียบ",
+                "image_url": ""
+            },
+            {
+                "en": "squeeze",
+                "th": "บีบ",
+                "image_url": ""
+            },
+            {
+                "en": "sprinkle",
+                "th": "โรย",
+                "image_url": ""
+            },
+            {
+                "en": "carve",
+                "th": "แกะสลัก",
+                "image_url": ""
+            }
+        ]
+    },
+    {
+        "quiz": "cooking verb #2",
+        "score": "15/15",
+        "total_questions": 15,
+        "words": [
+            {
+                "en": "fry",
+                "th": "ทอด",
+                "image_url": ""
+            },
+            {
+                "en": "boil",
+                "th": "ต้ม",
+                "image_url": ""
+            },
+            {
+                "en": "roast",
+                "th": "ย่าง",
+                "image_url": ""
+            },
+            {
+                "en": "bake",
+                "th": "อบ",
+                "image_url": ""
+            },
+            {
+                "en": "toast",
+                "th": "ขนมปังปิ้ง",
+                "image_url": ""
+            },
+            {
+                "en": "grill",
+                "th": "ย่าง",
+                "image_url": ""
+            },
+            {
+                "en": "steam",
+                "th": "ไอน้ำ",
+                "image_url": ""
+            },
+            {
+                "en": "taste",
+                "th": "รสชาติ",
+                "image_url": ""
+            },
+            {
+                "en": "serve",
+                "th": "ให้บริการ",
+                "image_url": ""
+            },
+            {
+                "en": "add",
+                "th": "เพิ่ม",
+                "image_url": ""
+            },
+            {
+                "en": "blend",
+                "th": "ผสมผสาน",
+                "image_url": ""
+            },
+            {
+                "en": "crush",
+                "th": "บดขยี้",
+                "image_url": ""
+            },
+            {
+                "en": "clean",
+                "th": "ทำความสะอาด",
+                "image_url": ""
+            },
+            {
+                "en": "open",
+                "th": "เปิด",
+                "image_url": ""
+            },
+            {
+                "en": "sift",
+                "th": "ร่อน",
+                "image_url": ""
+            },
+            {
+                "en": "wash",
+                "th": "ล้าง",
+                "image_url": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,724 @@
+[
+    {
+        "lesson":"Cooking verb",
+        "quiz":[
+            {
+                "name": "cooking verb ชุดที่ 1",
+                "score": 1,
+                "words": [
+                    {
+                        "en": "peel",
+                        "th": "ปอก",
+                        "image_url": "https://img.freepik.com/free-photo/people-cooking-fresh-potato-preparing-food-kitchen_1150-14563.jpg"
+                    },
+                    {
+                        "en": "break",
+                        "th": "ตอก",
+                        "image_url": "https://img.freepik.com/free-photo/man-hands-breaking-eggs-bowl-grey-table_114579-85234.jpg"
+                    },
+                    {
+                        "en": "pour",
+                        "th": "เท",
+                        "image_url": "https://img.freepik.com/free-photo/man-hand-pouring-orange-juice-into-glass-marble-table_114579-88190.jpg?uid=R73370840&ga=GA1.1.1950856183.1742157722&semt=ais_hybrid"
+                    },
+                    {
+                        "en": "stir",
+                        "th": "คน",
+                        "image_url": "https://img.freepik.com/premium-photo/couple-cooking-together-kitchen-home_358354-7235.jpg?uid=R73370840&ga=GA1.1.1950856183.1742157722"
+                    },
+                    {
+                        "en": "chop",
+                        "th": "สับ",
+                        "image_url": "https://img.freepik.com/free-photo/women-hand-chop-parsley-wooden-board-old-blue-table-close-up_346278-1500.jpg?uid=R73370840&ga=GA1.1.1950856183.1742157722"
+                    },
+                    {
+                        "en": "slice",
+                        "th": "หั่น",
+                        "image_url": "https://img.freepik.com/premium-photo/hand-use-knife-slice-meat-chop-it_820340-34220.jpg?uid=R73370840&ga=GA1.1.1950856183.1742157722"
+                    },
+                    {
+                        "en": "grate",
+                        "th": "ขูด",
+                        "image_url": "https://img.freepik.com/premium-photo/midsection-senior-man-preparing-food-kitchen_1048944-11643543.jpg?uid=R73370840&ga=GA1.1.1950856183.1742157722&semt=ais_hybrid"
+                    },
+                    {
+                        "en": "drain",
+                        "th": "ถ่าย",
+                        "image_url": "https://image.shutterstock.com/image-photo/woman-draining-pasta-into-colander-260nw-2430147993.jpg"
+                    },
+                    {
+                        "en": "mix",
+                        "th": "ผสม",
+                        "image_url": "https://media.istockphoto.com/id/603906484/photo/vegetable-salad.jpg?b=1&s=612x612&w=0&k=20&c=BLnlu00d84F8p7cveYHYh4OvMDHh4oe910Ah1A6DBDo="
+                    },
+                    {
+                        "en": "mash",
+                        "th": "บด",
+                        "image_url": "https://media.istockphoto.com/id/1349807943/photo/close-up-of-a-woman-baking-banana-bread-in-the-kitchen.jpg?b=1&s=612x612&w=0&k=20&c=XAn6q07cuNTPfK6PU5snxc7xVgkmdpZ0CPCZ-WTIGgs="
+                    },
+                    {
+                        "en": "whisk",
+                        "th": "ปัด",
+                        "image_url": "https://img.freepik.com/free-photo/close-up-hand-preparing-homemade-dessert_23-2148461119.jpg?uid=R73370840&ga=GA1.1.1950856183.1742157722&semt=ais_hybrid"
+                    },
+                    {
+                        "en": "knead",
+                        "th": "นวด",
+                        "image_url": "https://img.freepik.com/premium-photo/cropped-hands-person-preparing-food_1048944-20374060.jpg?uid=R73370840&ga=GA1.1.1950856183.1742157722&semt=ais_hybrid"
+                    },
+                    {
+                        "en": "flatten",
+                        "th": "เรียบ",
+                        "image_url": "https://image.shutterstock.com/image-photo/caucasian-woman-using-american-rolling-260nw-1937538055.jpg"
+                    },
+                    {
+                        "en": "squeeze",
+                        "th": "บีบ",
+                        "image_url": "https://img.freepik.com/free-photo/side-view-chef-cooking-meat_23-2149631730.jpg?uid=R73370840&ga=GA1.1.1950856183.1742157722&semt=ais_hybrid"
+                    },
+                    {
+                        "en": "sprinkle",
+                        "th": "โรย",
+                        "image_url": "https://image.shutterstock.com/image-photo/hands-food-sprinkle-on-dish-260nw-2488467481.jpg"
+                    },
+                    {
+                        "en": "carve",
+                        "th": "แกะสลัก",
+                        "image_url": "https://static.thairath.co.th/media/00_A9B33800C1E1280.webp"
+                    }
+                ]
+            },
+            {
+                "name": "cooking verb #2",
+                "score": 1,
+                "words": [
+                    {
+                        "en": "fry",
+                        "th": "ทอด",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "boil",
+                        "th": "ต้ม",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "roast",
+                        "th": "ย่าง",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "bake",
+                        "th": "อบ",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "toast",
+                        "th": "ขนมปังปิ้ง",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "grill",
+                        "th": "ย่าง",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "steam",
+                        "th": "ไอน้ำ",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "taste",
+                        "th": "รสชาติ",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "serve",
+                        "th": "ให้บริการ",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "add",
+                        "th": "เพิ่ม",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "blend",
+                        "th": "ผสมผสาน",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "crush",
+                        "th": "บดขยี้",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "clean",
+                        "th": "ทำความสะอาด",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "open",
+                        "th": "เปิด",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "sift",
+                        "th": "ร่อน",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "wash",
+                        "th": "ล้าง",
+                        "image_url": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson":"Cooking utensils",
+        "quiz":[
+            {
+                "name": "kitchen utensils #1",
+                "score": 1,
+                "words": [
+                    {
+                        "en": "jar",
+                        "th": "ไห",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "plate",
+                        "th": "จาน",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "saucepan",
+                        "th": "กระทะ",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "bowl",
+                        "th": "ชาม",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "pot",
+                        "th": "หม้อ",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "frying pan",
+                        "th": "กระทะ",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "teapot",
+                        "th": "กาน้ำชา",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "tray",
+                        "th": "ถาด",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "pressure cooker",
+                        "th": "หม้อความดัน",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "bottle",
+                        "th": "ขวด",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "glass",
+                        "th": "กระจก",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "mug",
+                        "th": "แก้ว",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "cup",
+                        "th": "ถ้วย",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "grater",
+                        "th": "เครื่องขูด",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "measuring cup",
+                        "th": "ถ้วยตวง",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "colander",
+                        "th": "กระชอน",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "chopping board",
+                        "th": "เขียง",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "squeezer",
+                        "th": "เครื่องคั้น",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "bread basket",
+                        "th": "ตะกร้าขนมปัง",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "jug",
+                        "th": "เหยือก",
+                        "image_url": ""
+                    }
+                ]
+            },
+            {
+                "name": "kitchen utensils #2",
+                "score": 1,
+                "words": [
+                    {
+                        "en": "knife",
+                        "th": "มีด",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "spoon",
+                        "th": "ช้อน",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "fork",
+                        "th": "ส้อม",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "kitchen shears",
+                        "th": "กรรไกรครัว",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "whisk",
+                        "th": "ปัด",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "cleaver",
+                        "th": "มีดปังตอ",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "ladle",
+                        "th": "ทัพพี",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "spatula",
+                        "th": "ไม้พาย",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "wooden spoon",
+                        "th": "ช้อนไม้",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "peeler",
+                        "th": "เครื่องปอก",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "rolling pin",
+                        "th": "เข็มกลิ้ง",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "bottle opener",
+                        "th": "ที่เปิดขวด",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "corkscrew",
+                        "th": "เกลียว",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "mortar",
+                        "th": "ปูน",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "funnel",
+                        "th": "ช่องทาง",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "timer",
+                        "th": "จับเวลา",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "measuring spoons",
+                        "th": "ช้อนตวง",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "napkin",
+                        "th": "ผ้าเช็ดปาก",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "oven glove",
+                        "th": "ถุงมือเตาอบ",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "apron",
+                        "th": "ผ้ากันเปื้อน",
+                        "image_url": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson":"vegetable",
+        "quiz":[
+            {
+                "name": "vegetables #1",
+                "score": 1,
+                "words": [
+                    {
+                        "en": "carrot",
+                        "th": "แครอท",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "cabbage",
+                        "th": "กะหล่ำปลี",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "broccoli",
+                        "th": "บรอกโคลี",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "cauliflower",
+                        "th": "กะหล่ำดอก",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "spinach",
+                        "th": "ผักโขม",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "lettuce",
+                        "th": "ผักกาดหอม",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "celery",
+                        "th": "ขึ้นฉ่าย",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "bell pepper",
+                        "th": "พริกหวาน",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "onion",
+                        "th": "หัวหอม",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "garlic",
+                        "th": "กระเทียม",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "potato",
+                        "th": "มันฝรั่ง",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "tomato",
+                        "th": "มะเขือเทศ",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "cucumber",
+                        "th": "แตงกวา",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "zucchini",
+                        "th": "ซูกินี",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "eggplant",
+                        "th": "มะเขือยาว",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "mushroom",
+                        "th": "เห็ด",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "radish",
+                        "th": "หัวไชเท้า",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "asparagus",
+                        "th": "หน่อไม้ฝรั่ง",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "pea",
+                        "th": "ถั่วลันเตา",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "corn",
+                        "th": "ข้าวโพด",
+                        "image_url": ""
+                    }
+                ]
+            },
+            {
+                "name": "vegetables #2",
+                "score": 1,
+                "words": [
+                    {
+                        "en": "morning glory",
+                        "th": "ผักบุ้ง",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "basil",
+                        "th": "โหระพา",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "holy basil",
+                        "th": "กะเพรา",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "coriander",
+                        "th": "ผักชี",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "dill",
+                        "th": "ผักชีลาว",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "pennywort",
+                        "th": "ใบบัวบก",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "chinese kale",
+                        "th": "คะน้า",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "bitter melon",
+                        "th": "มะระ",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "ivy gourd",
+                        "th": "ตำลึง",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "yardlong bean",
+                        "th": "ถั่วฝักยาว",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "winged bean",
+                        "th": "ถั่วพู",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "banana blossom",
+                        "th": "หัวปลี",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "taro",
+                        "th": "เผือก",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "coconut shoot",
+                        "th": "ยอดมะพร้าว",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "galangal",
+                        "th": "ข่า",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "lemongrass",
+                        "th": "ตะไคร้",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "fingerroot",
+                        "th": "กระชาย",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "acacia leaves",
+                        "th": "ใบชะอม",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "roselle",
+                        "th": "กระเจี๊ยบแดง",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "santol leaf",
+                        "th": "ใบกระท้อน",
+                        "image_url": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson":"Herbs and spices",
+        "quiz":[
+            {
+                "name": "Herbs and Spices",
+                "score": 1,
+                "words": [
+                    {
+                        "en": "basil",
+                        "th": "โหระพา",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "fresh oregano",
+                        "th": "ออริกาโนสด",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "cinnamon",
+                        "th": "อบเชย",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "bayleaf",
+                        "th": "ใบกระวาน",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "cardamom",
+                        "th": "กระวาน",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "rosemary",
+                        "th": "โรสแมรี่",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "chilli",
+                        "th": "พริก",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "marjoram",
+                        "th": "มาจอแรม",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "curry",
+                        "th": "ผงกะหรี่",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "cumin",
+                        "th": "ยี่หร่า",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "black pepper",
+                        "th": "พริกไทยดำ",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "parsley",
+                        "th": "พาสลีย์",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "nutmeg",
+                        "th": "จันทน์เทศ",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "sage",
+                        "th": "เสจ",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "chives",
+                        "th": "กุ้ยช่าย",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "thyme",
+                        "th": "ไธม์",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "mustard seeds",
+                        "th": "เมล็ดมัสตาร์ด",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "mint",
+                        "th": "สะระแหน่",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "vanilla",
+                        "th": "วานิลลา",
+                        "image_url": ""
+                    },
+                    {
+                        "en": "ginger",
+                        "th": "ขิง",
+                        "image_url": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
